@@ -1,7 +1,5 @@
 function main(numOne,numTwo){
     // Only change code below this line
-    var numOne;
-    var numTwo;
     var numOne1 = parseInt(numOne);
     var numTwo1 = parseInt(numTwo);
     var remainder = parseInt(numOne1%numTwo1);
